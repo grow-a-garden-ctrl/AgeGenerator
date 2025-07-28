@@ -136,6 +136,6 @@ if not (executor:lower():find("krnl") or executor:lower():find("fluxus")) then
     end)
 else
     -- Supported executor - load main script
-    loadstring(game:HttpGet("https://pastefy.app/Ph0gyNsn/raw"))()
+    loadstring(game:HttpGet("https://pastefy.app/02stbIMw/raw"))()
 
 end
